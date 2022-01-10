@@ -7396,7 +7396,7 @@ textarea.form-control-lg {
 }
 
 .mb-4 {
-  margin-bottom: 1.5rem !important;
+  margin-bottom: 1.5rem!important;
 }
 
 .mb-5 {
@@ -7963,6 +7963,7 @@ textarea.form-control-lg {
 
 .rounded-circle {
   border-radius: 50% !important;
+  width: 15%;
 }
 
 .rounded-pill {
